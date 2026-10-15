@@ -2,7 +2,7 @@
 
 A simple PDF reader written in Python with tkinter and PyMuPDF.
 
-![screenshot](screenshot.png)
+
 
 ## Features
 
