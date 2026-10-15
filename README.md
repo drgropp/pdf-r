@@ -39,9 +39,7 @@ Each book gets its own save file named after the PDF (for example
 book jumps straight back to it.
 
 ## About
-
-My first complete Python program, written line by line while learning
-the language. A C rewrite using raylib is planned.
+might do a C rewrite in the future.
 
 ## Planned
 
